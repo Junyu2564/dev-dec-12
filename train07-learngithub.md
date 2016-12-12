@@ -1,15 +1,9 @@
 # home town
 
-###  fun places to go
-- Punch Bowl
-- Bowling Alley
-- Gym
+###  fun places to
+-Restaurants
+  -Cooper Hawks
+    :burger:
+go
+
 ### entertainment
-- Movies
-  - Beauty and Beast
-  - skyfall
-- Shopping
-  - Macy's
-  - Bloomingdales
-  - Nordstorm
-- Music
