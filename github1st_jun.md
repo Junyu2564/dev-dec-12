@@ -2,7 +2,7 @@
 
 ## Place to
 visit, enjoy good food like 
-- BBQ place
+- BBQ
 
 
 ### Things to do
