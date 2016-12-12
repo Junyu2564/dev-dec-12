@@ -1,6 +1,9 @@
 # Kansas city
 
-## Pleace to
-visit
+## Place to
+visit, enjoy good food like 
+- BBQ place
+
 
 ### Things to do
+- taking picture
