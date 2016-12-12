@@ -8,4 +8,5 @@
 - Sports
   - Cubs
   - Blackhawks
-  - ears
+  - Bears
+  - Sox
